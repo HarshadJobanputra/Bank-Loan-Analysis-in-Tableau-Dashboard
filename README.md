@@ -52,3 +52,8 @@ This project provide detail analysis about financial health of the bank with res
 ****DASHBOARD 3: DETAILS****
 
   Details Dashboard provides a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into the loan portfolio, borrower profiles, and loan performance.
+
+
+**Tableau Project Link:** 
+
+https://public.tableau.com/shared/BKQ4K7P9F?:display_count=n&:origin=viz_share_link
